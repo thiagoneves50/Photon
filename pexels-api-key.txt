@@ -1,4 +1,0 @@
-563492ad6f9170000100000149a3e1fb8c7145f7b10fcb45411de2cd
-
-Curated photos:
-https://api.pexels.com/v1/curated
